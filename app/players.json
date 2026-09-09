@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "一诺",
+    "realName": "徐必成",
+    "team": "成都AG超玩会",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2016—18",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "轩染",
+    "realName": "刘明",
+    "team": "成都AG超玩会",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "长生",
+    "realName": "谢承峻",
+    "team": "成都AG超玩会",
+    "status": "现役",
+    "role": "中路",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "钟意",
+    "realName": "陈家豪",
+    "team": "成都AG超玩会",
+    "status": "现役",
+    "role": "打野",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "大帅",
+    "realName": "孟家俊",
+    "team": "成都AG超玩会",
+    "status": "现役",
+    "role": "游走",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "北诗",
+    "realName": "郑国浩",
+    "team": "成都AG超玩会",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2019—21",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "救赎",
+    "realName": "张佳豪",
+    "team": "成都AG超玩会",
+    "status": "替补",
+    "role": "游走",
+    "era": "2019—21",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "染详",
+    "realName": "管泓宇",
+    "team": "成都AG超玩会",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小麦",
+    "realName": "彭超平",
+    "team": "成都AG超玩会",
+    "status": "替补",
+    "role": "发育路",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "陈穿",
+    "realName": "李陈隽恺",
+    "team": "成都AG超玩会",
+    "status": "青训",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "梦岚",
+    "realName": "彭俊岚",
+    "team": "佛山DRG",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2019—21",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "花缘",
+    "realName": "谭锦威",
+    "team": "佛山DRG",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小小阳",
+    "realName": "应恒阳",
+    "team": "佛山DRG",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "柚子",
+    "realName": "袁树鑫",
+    "team": "佛山DRG",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "子阳",
+    "realName": "向阳",
+    "team": "佛山DRG",
+    "status": "现役",
+    "role": "游走",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "呆呆",
+    "realName": "赖永睿",
+    "team": "佛山DRG",
+    "status": "替补",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "源",
+    "realName": "李盛源",
+    "team": "佛山DRG",
+    "status": "青训",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "早点",
+    "realName": "沈若飞",
+    "team": "佛山DRG",
+    "status": "替补",
+    "role": "中路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "花椒",
+    "realName": "何健",
+    "team": "佛山DRG",
+    "status": "青训",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "钎城",
+    "realName": "周诣涛",
+    "team": "深圳DYG",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "小轩",
+    "realName": "王胜",
+    "team": "深圳DYG",
+    "status": "现役",
+    "role": "打野",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "向鱼",
+    "realName": "蔡佑其",
+    "team": "深圳DYG",
+    "status": "现役",
+    "role": "中路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "栋栋",
+    "realName": "王栋",
+    "team": "深圳DYG",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小乐",
+    "realName": "黄家乐",
+    "team": "深圳DYG",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "落空",
+    "realName": "周熙瑞",
+    "team": "深圳DYG",
+    "status": "现役",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "秋源",
+    "realName": "吴星源",
+    "team": "深圳DYG",
+    "status": "替补",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "叶凡",
+    "realName": "刘译凡",
+    "team": "深圳DYG",
+    "status": "青训",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "方羽",
+    "realName": "邓佳宇",
+    "team": "深圳DYG",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "花卷",
+    "realName": "吴育涛",
+    "team": "上海EDG.M",
+    "status": "现役",
+    "role": "中路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "流星",
+    "realName": "李星",
+    "team": "上海EDG.M",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "夏凌",
+    "realName": "张蜀徽",
+    "team": "上海EDG.M",
+    "status": "现役",
+    "role": "打野",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "月秋",
+    "realName": "赵浩伟",
+    "team": "上海EDG.M",
+    "status": "青训",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "橙果",
+    "realName": "刘梓策",
+    "team": "上海EDG.M",
+    "status": "青训",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "风箫",
+    "realName": "于翔任",
+    "team": "上海EDG.M",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "凌云",
+    "realName": "陈泓铭",
+    "team": "上海EDG.M",
+    "status": "替补",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小碎",
+    "realName": "李文浩",
+    "team": "上海EDG.M",
+    "status": "现役",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "绝心",
+    "realName": "刘泽杉",
+    "team": "上海EDG.M",
+    "status": "青训",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小A",
+    "realName": "杨荣鑫",
+    "team": "武汉eStarPro",
+    "status": "现役",
+    "role": "游走",
+    "era": "2019—21",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "亮宇",
+    "realName": "陈亮宇",
+    "team": "武汉eStarPro",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "鸣鸣",
+    "realName": "张恒鸣",
+    "team": "武汉eStarPro",
+    "status": "替补",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小楼",
+    "realName": "沈宇轩",
+    "team": "武汉eStarPro",
+    "status": "现役",
+    "role": "打野",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "Ming",
+    "realName": "池晓铭",
+    "team": "武汉eStarPro",
+    "status": "现役",
+    "role": "中路",
+    "era": "2019—21",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "余忆",
+    "realName": "陈文塔",
+    "team": "武汉eStarPro",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "海棠",
+    "realName": "饶接平",
+    "team": "武汉eStarPro",
+    "status": "青训",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "浅风",
+    "realName": "胡宸语",
+    "team": "武汉eStarPro",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "Fly",
+    "realName": "彭云飞",
+    "team": "武汉eStarPro",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2016—18",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "坦然",
+    "realName": "孙麟威",
+    "team": "南通Hero久竞",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "晨沉",
+    "realName": "闫子健",
+    "team": "南通Hero久竞",
+    "status": "青训",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "落尘",
+    "realName": "张世杰",
+    "team": "南通Hero久竞",
+    "status": "现役",
+    "role": "打野",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "玖熙",
+    "realName": "敖语思涵",
+    "team": "南通Hero久竞",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "妖刀",
+    "realName": "钟乐天",
+    "team": "南通Hero久竞",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "Silver",
+    "realName": "黄本帅",
+    "team": "南通Hero久竞",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "白清",
+    "realName": "吴轲蔚",
+    "team": "南通Hero久竞",
+    "status": "现役",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "清弦",
+    "realName": "肖桂蕊",
+    "team": "南通Hero久竞",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "紫渊",
+    "realName": "侯维国",
+    "team": "南通Hero久竞",
+    "status": "替补",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "无畏",
+    "realName": "杨涛",
+    "team": "北京JDG",
+    "status": "现役",
+    "role": "游走",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "轻语",
+    "realName": "谢欣臻",
+    "team": "北京JDG",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "清融",
+    "realName": "黄垚钦",
+    "team": "北京JDG",
+    "status": "现役",
+    "role": "中路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "无双",
+    "realName": "胡家荣",
+    "team": "北京JDG",
+    "status": "现役",
+    "role": "打野",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "零栩",
+    "realName": "喻创鑫",
+    "team": "北京JDG",
+    "status": "替补",
+    "role": "发育路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小寒",
+    "realName": "金书瀚",
+    "team": "北京JDG",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "昊昊",
+    "realName": "黄政昊",
+    "team": "北京JDG",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "光明",
+    "realName": "余睿桐",
+    "team": "北京JDG",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "扩恬",
+    "realName": "张沣铄",
+    "team": "北京JDG",
+    "status": "青训",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "流浪",
+    "realName": "张恒",
+    "team": "KSG",
+    "status": "现役",
+    "role": "中路",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "无言",
+    "realName": "赵昊宇",
+    "team": "KSG",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "绝境",
+    "realName": "罗嘉文",
+    "team": "KSG",
+    "status": "青训",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "句号",
+    "realName": "何伟嘉",
+    "team": "KSG",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "雨溪",
+    "realName": "杨宇轩",
+    "team": "KSG",
+    "status": "青训",
+    "role": "未知",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小凡",
+    "realName": "陈一帆",
+    "team": "KSG",
+    "status": "替补",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小屿",
+    "realName": "王思琪",
+    "team": "KSG",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "晚星",
+    "realName": "王恒鸿",
+    "team": "KSG",
+    "status": "现役",
+    "role": "游走",
+    "era": "2019—21",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "烈峰峰",
+    "realName": "张玉峰",
+    "team": "KSG",
+    "status": "青训",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "清清",
+    "realName": "吴金翔",
+    "team": "重庆狼队",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "皖皖",
+    "realName": "杜远航",
+    "team": "重庆狼队",
+    "status": "现役",
+    "role": "打野",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "紫幻",
+    "realName": "黄广顺",
+    "team": "重庆狼队",
+    "status": "现役",
+    "role": "中路",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "道崽",
+    "realName": "杨凯博",
+    "team": "重庆狼队",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "信",
+    "realName": "苟宏鑫",
+    "team": "重庆狼队",
+    "status": "现役",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "文涛",
+    "realName": "朱文涛",
+    "team": "重庆狼队",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "心决",
+    "realName": "梁磊",
+    "team": "重庆狼队",
+    "status": "青训",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小团",
+    "realName": "刘孝睿",
+    "team": "重庆狼队",
+    "status": "青训",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小叶",
+    "realName": "叶锦锋",
+    "team": "重庆狼队",
+    "status": "青训",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "九尾",
+    "realName": "许鑫蓁",
+    "team": "杭州LGD.NBW",
+    "status": "现役",
+    "role": "中路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "小落",
+    "realName": "王科",
+    "team": "杭州LGD.NBW",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "花花",
+    "realName": "丁璟灏",
+    "team": "杭州LGD.NBW",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "米苏",
+    "realName": "姜腾瑞",
+    "team": "杭州LGD.NBW",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "断雨",
+    "realName": "张宇",
+    "team": "杭州LGD.NBW",
+    "status": "青训",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小名",
+    "realName": "李书名",
+    "team": "杭州LGD.NBW",
+    "status": "替补",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小久",
+    "realName": "阳文明",
+    "team": "杭州LGD.NBW",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "星尘",
+    "realName": "刘航旭",
+    "team": "杭州LGD.NBW",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小崽",
+    "realName": "夏肇汛",
+    "team": "杭州LGD.NBW",
+    "status": "现役",
+    "role": "游走",
+    "era": "2019—21",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "赤辰",
+    "realName": "伯晨赫",
+    "team": "杭州LGD.NBW",
+    "status": "替补",
+    "role": "游走",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小困",
+    "realName": "张翁豪",
+    "team": "上海RNG.M",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "壶神",
+    "realName": "陈展鹏",
+    "team": "上海RNG.M",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "航航",
+    "realName": "谢模航",
+    "team": "上海RNG.M",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "雨空",
+    "realName": "杨文岳",
+    "team": "上海RNG.M",
+    "status": "现役",
+    "role": "中路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "润润",
+    "realName": "蒋润",
+    "team": "上海RNG.M",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "极光",
+    "realName": "周文强",
+    "team": "上海RNG.M",
+    "status": "替补",
+    "role": "游走",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "涛",
+    "realName": "应泽涛",
+    "team": "上海RNG.M",
+    "status": "现役",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "久酷",
+    "realName": "王滔",
+    "team": "上海RNG.M",
+    "status": "替补",
+    "role": "游走",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "归期",
+    "realName": "双小钧",
+    "team": "济南RW侠",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "今屿",
+    "realName": "徐翔宇",
+    "team": "济南RW侠",
+    "status": "现役",
+    "role": "打野",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "挽墨",
+    "realName": "骆雪岩",
+    "team": "济南RW侠",
+    "status": "现役",
+    "role": "中路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小俞",
+    "realName": "周宇",
+    "team": "济南RW侠",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "梦溪",
+    "realName": "李文宝",
+    "team": "济南RW侠",
+    "status": "现役",
+    "role": "游走",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "牛牛",
+    "realName": "周士羽",
+    "team": "济南RW侠",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "剑樱",
+    "realName": "纪光全",
+    "team": "济南RW侠",
+    "status": "青训",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "佩恩",
+    "realName": "文帅",
+    "team": "济南RW侠",
+    "status": "替补",
+    "role": "发育路",
+    "era": "2019—21",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "铃离",
+    "realName": "吴宇润",
+    "team": "济南RW侠",
+    "status": "青训",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "无幻",
+    "realName": "朱俊",
+    "team": "长沙TES.A",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "书源",
+    "realName": "寇书源",
+    "team": "长沙TES.A",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "七",
+    "realName": "师子豪",
+    "team": "长沙TES.A",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "景诗",
+    "realName": "李知杰",
+    "team": "长沙TES.A",
+    "status": "替补",
+    "role": "中路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "筱雨",
+    "realName": "郑伟聪",
+    "team": "长沙TES.A",
+    "status": "青训",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "蓝桉",
+    "realName": "李涿阳",
+    "team": "长沙TES.A",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "玖欣",
+    "realName": "邹伟鑫",
+    "team": "长沙TES.A",
+    "status": "现役",
+    "role": "游走",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "帆帆",
+    "realName": "杨帆",
+    "team": "长沙TES.A",
+    "status": "现役",
+    "role": "游走",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "萝卜",
+    "realName": "陈佳鸿",
+    "team": "广州TTG",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小泽",
+    "realName": "沈宇泽",
+    "team": "广州TTG",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小胖",
+    "realName": "李达亨",
+    "team": "广州TTG",
+    "status": "现役",
+    "role": "打野",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "佳心",
+    "realName": "李佳旭",
+    "team": "广州TTG",
+    "status": "替补",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "鹤辞",
+    "realName": "江利杰",
+    "team": "广州TTG",
+    "status": "现役",
+    "role": "中路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小雪",
+    "realName": "岳彩营",
+    "team": "广州TTG",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "月月",
+    "realName": "章景豪",
+    "team": "广州TTG",
+    "status": "青训",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "涵",
+    "realName": "黄涵熙",
+    "team": "广州TTG",
+    "status": "现役",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "暖阳",
+    "realName": "林恒",
+    "team": "北京WB",
+    "status": "替补",
+    "role": "打野",
+    "era": "2016—18",
+    "champion": true,
+    "fmvp": true
+  },
+  {
+    "id": "梓墨",
+    "realName": "吴喆杰",
+    "team": "北京WB",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "樱花",
+    "realName": "林子涵",
+    "team": "北京WB",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "安凉",
+    "realName": "张雪龙",
+    "team": "北京WB",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "青剑",
+    "realName": "陈子乘",
+    "team": "北京WB",
+    "status": "青训",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "秋月",
+    "realName": "刘子扬",
+    "team": "北京WB",
+    "status": "青训",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "果冻",
+    "realName": "倪钰城",
+    "team": "北京WB",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "听悦",
+    "realName": "吴佐",
+    "team": "北京WB",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "昭珏",
+    "realName": "屈万东",
+    "team": "北京WB",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "奕雨",
+    "realName": "项奕源",
+    "team": "北京WB",
+    "status": "青训",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "一笙",
+    "realName": "李自威",
+    "team": "北京WB",
+    "status": "现役",
+    "role": "游走",
+    "era": "2022—24",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "阿豆",
+    "realName": "蒋涛",
+    "team": "北京WB",
+    "status": "替补",
+    "role": "游走",
+    "era": "2016—18",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "明崽",
+    "realName": "戴家权",
+    "team": "西安WE",
+    "status": "现役",
+    "role": "中路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "子意",
+    "realName": "秦子意",
+    "team": "西安WE",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "九幽",
+    "realName": "李俊超",
+    "team": "西安WE",
+    "status": "现役",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小度",
+    "realName": "古伟雄",
+    "team": "西安WE",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "景云",
+    "realName": "郑云浩",
+    "team": "西安WE",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "千云",
+    "realName": "刘浩宇",
+    "team": "西安WE",
+    "status": "青训",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "绝意",
+    "realName": "廖友侠",
+    "team": "西安WE",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "雨晨",
+    "realName": "陈宇",
+    "team": "西安WE",
+    "status": "青训",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小念",
+    "realName": "张舜杰",
+    "team": "西安WE",
+    "status": "替补",
+    "role": "游走",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "晋鱼",
+    "realName": "刘晋余",
+    "team": "SYG",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "幻想",
+    "realName": "张大利",
+    "team": "SYG",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "星痕",
+    "realName": "王刻勤",
+    "team": "SYG",
+    "status": "替补",
+    "role": "对抗路",
+    "era": "2019—21",
+    "champion": true,
+    "fmvp": false
+  },
+  {
+    "id": "开水",
+    "realName": "赖仁杰",
+    "team": "SYG",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小果汁",
+    "realName": "刘帅",
+    "team": "SYG",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "小怜",
+    "realName": "徐熠博",
+    "team": "SYG",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "三岁",
+    "realName": "张洋",
+    "team": "SYG",
+    "status": "现役",
+    "role": "游走",
+    "era": "2022—24",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "夏凡",
+    "realName": "刘照明",
+    "team": "SYG",
+    "status": "青训",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "安澜",
+    "realName": "徐宏杨",
+    "team": "WST",
+    "status": "现役",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "萌元",
+    "realName": "丁如风",
+    "team": "WST",
+    "status": "现役",
+    "role": "发育路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "糯米",
+    "realName": "米诺儒",
+    "team": "WST",
+    "status": "现役",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "沉欢",
+    "realName": "张沉",
+    "team": "WST",
+    "status": "现役",
+    "role": "中路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "幸运",
+    "realName": "经文浩",
+    "team": "WST",
+    "status": "青训",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "澜崽",
+    "realName": "熊晨",
+    "team": "WST",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "兰舟",
+    "realName": "梁圣杰",
+    "team": "WST",
+    "status": "青训",
+    "role": "对抗路",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "百炼",
+    "realName": "杨仕晨",
+    "team": "WST",
+    "status": "现役",
+    "role": "打野",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  },
+  {
+    "id": "楠枫",
+    "realName": "李亮",
+    "team": "WST",
+    "status": "现役",
+    "role": "游走",
+    "era": "2025—26",
+    "champion": false,
+    "fmvp": false
+  }
+]
