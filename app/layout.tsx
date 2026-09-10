@@ -5,6 +5,11 @@ export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000'),
   title: 'KPL 猜猜看｜职业选手推理游戏',
   description: '八次机会，根据战队、身份、分路与生涯标签猜出隐藏的 KPL 职业选手。',
+  icons: {
+    icon: [{ url: '/kplquiz-favicon.png', type: 'image/png', sizes: '64x64' }],
+    shortcut: '/kplquiz-favicon.png',
+    apple: [{ url: '/kplquiz-apple.png', sizes: '180x180', type: 'image/png' }],
+  },
   openGraph: {
     title: 'KPL 猜猜看｜职业选手推理游戏',
     description: '八次机会，锁定聚光灯下的 KPL 职业选手。',

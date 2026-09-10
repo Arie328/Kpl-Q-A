@@ -370,7 +370,9 @@ export default function Home() {
 
       <header className="topbar">
         <a className="brand" href="#top" aria-label="KPL 猜猜看首页">
-          <span className="brand-mark"><Swords /></span>
+          <span className="brand-mark">
+            <img src="/kplquiz-logo.png" alt="" width="38" height="38" />
+          </span>
           <span>
             <strong>KPL 猜猜看</strong>
             <small>WHO IS THE PLAYER</small>
